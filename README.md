@@ -59,5 +59,5 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/video-censorship-app.git
+   git clone https://github.com/LITHIShh/Video-Content-Censorship-Application.git
    cd video-censorship-app
